@@ -1,0 +1,5 @@
+Write a cross-reference program that constructs a binary search tree with all words included
+from a text file and records the line numbers on which these words were used. These line numbers
+should be stored on linked lists associated with the nodes of the tree. After the input file
+has been processed, print in alphabetical order all words of the text file along with the
+corresponding list of numbers of the lines in which the words occur.
